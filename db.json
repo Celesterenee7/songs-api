@@ -14,6 +14,21 @@
       "lyrics": "We're falling all over again, like a flash back to way back when.. Back when we were us.",
       "chords": "C",
       "tabs": "A, E"
+    },
+      { "id": 2, "name": "Out Of The Woods",
+      "lyrics": "Looking at it now, it all seems so simple. We were laying on your couch, I remember.",
+      "chords": "C",
+      "tabs": "A, E"
+    },
+      { "id": 2, "name": "Delicate",
+      "lyrics": "We might lay like never before. When there's nothing to give, how can we ask for more.",
+      "chords": "C",
+      "tabs": "A, E"
+    },
+      { "id": 2, "name": "Silver Dagger",
+      "lyrics": "Go court another tender maiden and hope that she will be your wife. For I have been warned and I've decided to sleep alone all of my life.",
+      "chords": "C",
+      "tabs": "A, E"
     }
   ],
   "artists": [
